@@ -3,6 +3,7 @@
 Finds Shortest Path Between two coordiantes using A* algorithm. Then gives turn by turn navigation to reach destination. Example Below:
 
 Starting tour...
+
 Welcome to Ackerman Union!
 This is Ackerman where you buy stuff.
 3
